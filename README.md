@@ -31,7 +31,7 @@ Dentro de Visual Studio Code, dirigirse hacia la parte superior izquierda secci�
 
 Una vez completados todos los pasos anteriores, se procede a crear una base de datos en MySQL phpMyAdmin presente en XAMPP, para ello es de dirigirse al servidor local, buscar MySQL y darle click en la opción "Admin", automáticamente abrirá el navegador, mostrando phpMyAdmin.
 
-**Base de datos:** Una vez dentro de phpMyAdmin, se debe crear una base de datos de nombre examen_final_goyes_job (El nombre debe ser tal cual como se menciona, sin embargo es posible cambiarlo en la parte de los modelos DB.php dentro de Visual Studio Code).
+**Base de datos:** Una vez dentro de phpMyAdmin, se debe crear una base de datos de nombre **examen_final_goyes_job** (El nombre debe ser tal cual como se menciona, sin embargo es posible cambiarlo en la parte de los modelos **DB.php** dentro de Visual Studio Code).
 
 **Entidad/tabla seleccionada Aulas:** Una vez creada la base de datos se procede a crear la tabla aulas con el siguiente código:
 
@@ -52,6 +52,6 @@ Luego de haber digitado el código, se debe proceder a ejecutarlo, para ello se 
 
 Por último, se procede a abrir la aplicación web en el navegador utilizando el servidor local.
 
-Para entrar en la página de inicio de la aplicación, se digitará lo siguiente (mientras se tiene abierto XAMPP en segundo plano): localhost/Examen_Final_Goyes_Job/inicio
+Para entrar en la página de inicio de la aplicación, se digitará lo siguiente (mientras se tiene abierto XAMPP en segundo plano): **localhost/Examen_Final_Goyes_Job/inicio**
 
 Una vez digitada la ruta anterior, se presionará la tecla "enter" y automáticamente aparecerá la página de inicio de la aplicación respectiva, asi también en la misma página es posible navegar hacia la gestión de aulas correspondientemente.
