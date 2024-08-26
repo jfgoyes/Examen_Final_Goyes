@@ -17,7 +17,7 @@ Una vez se tenga instalado XAMPP, se lo debe ejecutar e inicializar las dos prim
 
 Una vez listo el servidor local, se procede a descargar el proyecto respectivo, en este caso de nombre **Examen_Final_Goyes_Job**, en formato .zip, una vez descargado darle click derecho y buscar la opción extraer aqui, aparecerá una carpeta del mismo nombre, esa carpeta debe ser copiada y pegada dentro de la carpeta htdocs que se encuentra en la dirección donde se haya instalado el servidor local, por lo general suele ser en C:\xampp\htdocs.
 
-**Muy importante: En caso de descargarlo desde el repositorio de GitHub (suele extenderse el nombre, por ejemplo Examen_Final_Goyes_Job-main), cambiar el nombre de la carpeta que se va a copiar a Examen_Final_Goyes_Job, para evitar cualquier tipo de inconveniente**
+**Muy importante: En caso de descargarlo desde el repositorio de GitHub (suele extenderse el nombre, por ejemplo Examen_Final_Goyes_Job-main), cambiar el nombre de la carpeta que se va a copiar al directorio htdocs por Examen_Final_Goyes_Job, para evitar cualquier tipo de inconveniente.**
 
 ### Paso 3: Ingreso al proyecto desde Visual Studio Code
 
